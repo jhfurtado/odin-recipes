@@ -1,0 +1,13 @@
+h1 {
+    text-align: center;
+    font-weight: 1000 px;
+    background-color: brown
+}
+
+body {
+    font-family: Calibri;
+}
+
+li {
+    list-style-type: decimal;
+}
